@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 23,
+    "editor.tabSize": 1,
+    "editor.accessibilityPageSize": 18,
+    "editor.quickSuggestionsDelay": 18,
+    "editor.suggestFontSize": 18,
+    "diffEditor.wordWrap": "on"
+}
